@@ -43,7 +43,7 @@
 
 | 项目名称 | 简介 | 技术栈 | 链接 |
 | :------: | :--: | :----: | :---: |
-| **myRan-ML** | 个人机器学习与深度学习实验仓库，包含 LeetCode 算法解答、Kaggle 项目笔记及计算机视觉小项目 | Python · PyTorch · OpenCV | [查看仓库](https://github.com/myRan-ML/myRan-ML) |
+| **myRan-ML** | 个人机器学习与深度学习实验仓库，包含 LeetCode 算法复习、Kaggle 项目笔记及计算机视觉小项目 | Python · PyTorch · OpenCV | [查看仓库](https://github.com/myRan-ML/Exp) |
 | **leetcode-solutions** | LeetCode 算法题刷题仓库，涵盖常见数据结构与算法题解 | C++ · Python | [查看仓库](https://github.com/myRan-ML/leetcode-solutions) |
 | **kaggle-challenges** | Kaggle 竞赛项目合集，包含数据清洗、特征工程、模型训练与评估范例 | Python · Pandas · Scikit-Learn | [查看仓库](https://github.com/myRan-ML/kaggle-challenges) |
 
