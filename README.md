@@ -1,5 +1,5 @@
 <!-- 如果你有自己的横幅图片，可以将其放在 `images/hero-banner.png` 并取消下面这行注释 -->
-<img src="images/hero-banner.png" alt="Hero Banner" width="100%" /> 
+<!--<img src="images/hero-banner.png" alt="Hero Banner" width="100%" /> -->
 
 # Hi there 👋，我是 **myRan**
 
@@ -8,7 +8,7 @@
 
 - 🎓 **在读**：某中流211，计算机相关专业  
 - 🔭 **研究方向**：深度学习（计算机视觉 CV）  
-- 🌱 **正在学习**：PyTorch、TensorFlow、OpenCV、算法与数据结构  
+- 🌱 **正在学习**：PyTorch、OpenCV、算法与数据结构  
 - 💬 **热爱**：刷 LeetCode、参与 Kaggle 竞赛、研读论文  
 - 📫 **联系我**：myran.nuaa@gmail.com / myran_nuaa_cs@163.com  
 - ⚡ **业余爱好**：跑步、摄影、旅行  
@@ -29,7 +29,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
