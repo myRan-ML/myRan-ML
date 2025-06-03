@@ -43,7 +43,7 @@
 
 | 项目名称 | 简介 | 技术栈 | 链接 |
 | :------: | :--: | :----: | :---: |
-| **myRan-ML** | 个人机器学习与深度学习实验仓库，包含 LeetCode 算法复习、Kaggle 项目笔记及计算机视觉小项目 | Python · PyTorch · OpenCV | [查看仓库](https://github.com/myRan-ML/Exp) |
+| **Exp** | 个人机器学习与深度学习实验仓库，包含 LeetCode 算法复习、Kaggle 项目笔记及计算机视觉小项目 | Python · PyTorch · OpenCV | [查看仓库](https://github.com/myRan-ML/Exp) |
 | **leetcode-solutions** | LeetCode 算法题刷题仓库，涵盖常见数据结构与算法题解 | C++ · Python | [查看仓库](https://github.com/myRan-ML/leetcode-solutions) |
 | **kaggle-challenges** | Kaggle 竞赛项目合集，包含数据清洗、特征工程、模型训练与评估范例 | Python · Pandas · Scikit-Learn | [查看仓库](https://github.com/myRan-ML/kaggle-challenges) |
 
@@ -55,8 +55,8 @@
 
 - ✉️ 邮箱：myran.nuaa@gmail.com  
 - 🌐 GitHub: [github.com/myRan-ML](https://github.com/myRan-ML)  
-<!-- - 🔗 领英（LinkedIn）：[linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile) （可选）  
-- 📚 Blog：<https://blog.example.com> （如有）  -->
+<!-- - 🔗 领英（LinkedIn）：[linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile) （可选）  -->
+- 📚 Blog：<[个人博客（在建中）](https://myran-ml.github.io/)> 
 
 ---
 
@@ -65,8 +65,9 @@
 
 ---
 
-> **更新日志：**  
-> - 🚀 2025-05-31：优化个人 README，更新技术栈与精选项目。  
+> **更新日志：**
+> - 🚀 2025-06-03：坚持每日打卡力扣
+> - 🚀 2025-05-31：优化个人 README。  
 > - 🚀 2025-05-31：首次创建仓库。  
 
 
